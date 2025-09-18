@@ -1,0 +1,3 @@
+[submodule "EXO-MCsampleRequests"]
+	path = EXO-MCsampleRequests
+	url = ssh://git@gitlab.cern.ch:7999/cms-exo-mci/EXO-MCsampleRequests.git
